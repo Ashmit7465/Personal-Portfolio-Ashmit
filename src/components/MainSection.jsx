@@ -20,7 +20,7 @@ const MainSection = () => {
         </div>
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="mb-20 flex justify-center">
-            <img src={myImage} alt="myImage" className="h-[450px] w-[380px]"/>
+            <img src={myImage} alt="myImage" className="h-[500px] w-[420px] rounded-xl"/>
           </div>
         </div>
     </div>

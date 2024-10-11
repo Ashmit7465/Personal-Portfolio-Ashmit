@@ -15,32 +15,11 @@ Let's connect and collaborate to create impactful solutions and drive technologi
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
-  },
-  {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "June 2024 - Present",
+    role: "Software Development Engineer (SDE) Intern",
+    company: "Mindtickle",
+    description: `Worked on a variety of projects, enhancing both backend and frontend systems. Optimized the logging mechanism in the data platform automation codebase, reducing query failure debugging time by 50%. Built a real-time API comparison dashboard on Snowflake, which compares any two configurable APIs, increasing data accuracy by 30% and cutting comparison time by 40%. Engineered a Synthetic Monitoring governance dashboard using Airflow DAG on Metabase and Snowflake, providing actionable insights and improving data quality by 35%. Created a self-serve migration framework that facilitates the migration of historical data from Couchbase and TickleDB to Snowflake, capable of handling 10 million rows in just 30 minutes. Contributed to development of a full-stack tool for visualizing and managing star schema diagrams for 20+ domains in Snowflake. Currently, involved in migrating 80+ analytics pages from Spark to CubeJS, handling both frontend and backend tasks.`,
+    technologies: ["Javascript", "React.js", "Snowflake", "Cube.js", "Node.js", "Express.js", "AWS"],
   },
 ];
 
